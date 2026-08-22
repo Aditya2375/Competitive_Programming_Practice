@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 8 |
+| 23 | 8 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (16)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (17)
 - [math](#math) (6)
-- [sortings](#sortings) (2)
-- [strings](#strings) (5)
+- [sortings](#sortings) (3)
+- [strings](#strings) (6)
 
 ---
 
@@ -50,6 +50,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### implementation
 
@@ -60,6 +61,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 678A | [Johny Likes Numbers](https://codeforces.com/contest/678/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/678/A%20-%20Johny%20Likes%20Numbers/solution.cpp) |
@@ -87,6 +89,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 
@@ -97,6 +100,7 @@
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
