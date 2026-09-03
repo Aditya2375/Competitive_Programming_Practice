@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 7 |
+| 14 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (2)
@@ -51,6 +51,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
