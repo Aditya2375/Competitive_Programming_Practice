@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
 
@@ -21,6 +22,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 
 ---
 
