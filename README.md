@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 3 |
+| 5 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -23,6 +23,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 
