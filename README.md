@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
-- [math](#math) (1)
+- [implementation](#implementation) (7)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -24,6 +24,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 
 ### greedy
@@ -38,6 +39,7 @@
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
@@ -47,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Aditya2375/Competitive_Programming_Practice/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 
 ### strings
