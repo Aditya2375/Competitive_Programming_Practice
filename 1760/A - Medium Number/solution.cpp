@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+ 
 int main() {
     int t;
     cin >> t;
@@ -10,8 +10,7 @@ int main() {
         int mx = max({a, b, c});
         int mn = min({a, b, c});
         int med = (a + b + c) - mx - mn;
-        cout << med << "
-";
+        cout << med << "\n";
     }
     return 0;
 }
