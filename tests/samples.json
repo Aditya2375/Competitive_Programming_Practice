@@ -1,0 +1,452 @@
+{
+  "1030/A - In Search of an Easy Problem/solution.cpp": [
+    {
+      "input": "3\n0 0 1\n",
+      "output": "HARD\n"
+    },
+    {
+      "input": "1\n0\n",
+      "output": "EASY\n"
+    }
+  ],
+  "110/A - Nearly Lucky Number/solution.cpp": [
+    {
+      "input": "40047\n",
+      "output": "NO\n"
+    },
+    {
+      "input": "7747774\n",
+      "output": "YES\n"
+    },
+    {
+      "input": "1000000000000000000\n",
+      "output": "NO\n"
+    }
+  ],
+  "112/A - Petya and Strings/solution.cpp": [
+    {
+      "input": "aaaa\naaaA\n",
+      "output": "0\n"
+    },
+    {
+      "input": "abs\nAbz\n",
+      "output": "-1\n"
+    },
+    {
+      "input": "abcdefg\nAbCdEfF\n",
+      "output": "1\n"
+    }
+  ],
+  "116/A - Tram/solution.cpp": [
+    {
+      "input": "4\n0 3\n2 5\n4 2\n4 0\n",
+      "output": "6\n"
+    }
+  ],
+  "1328/A - Divisibility Problem/solution.cpp": [
+    {
+      "input": "5\n10 4\n13 9\n100 13\n123 456\n92 46\n",
+      "output": "2\n5\n4\n333\n0\n"
+    }
+  ],
+  "136/A - Presents/solution.cpp": [
+    {
+      "input": "4\n2 3 4 1\n",
+      "output": "4 1 2 3\n"
+    },
+    {
+      "input": "3\n1 3 2\n",
+      "output": "1 3 2\n"
+    },
+    {
+      "input": "2\n1 2\n",
+      "output": "1 2\n"
+    }
+  ],
+  "144/A - Arrival of the General/solution.cpp": [
+    {
+      "input": "4\n33 44 11 22\n",
+      "output": "2\n"
+    },
+    {
+      "input": "7\n10 10 58 31 63 40 76\n",
+      "output": "10\n"
+    }
+  ],
+  "148/A - Insomnia cure/solution.cpp": [
+    {
+      "input": "1\n2\n3\n4\n12\n",
+      "output": "12\n"
+    },
+    {
+      "input": "2\n3\n4\n5\n24\n",
+      "output": "17\n"
+    }
+  ],
+  "158/A - Next Round/solution.cpp": [
+    {
+      "input": "8 5\n10 9 8 7 7 7 5 5\n",
+      "output": "6\n"
+    },
+    {
+      "input": "4 2\n0 0 0 0\n",
+      "output": "0\n"
+    }
+  ],
+  "1669/A - Division": [],
+  "1703/A - YES or YES": [],
+  "1760/A - Medium Number/solution.cpp": [
+    {
+      "input": "9\n5 2 6\n14 3 4\n20 2 1\n1 2 3\n11 19 12\n10 8 20\n6 20 3\n4 1 3\n19 8 4\n",
+      "output": "5\n4\n2\n2\n12\n10\n6\n3\n8\n"
+    }
+  ],
+  "1807/A - Plus or Minus/solution.cpp": [
+    {
+      "input": "11\n1 2 3\n3 2 1\n2 9 -7\n3 4 7\n1 1 2\n1 1 0\n3 3 6\n9 9 18\n9 9 0\n1 9 -8\n1 9 10\n",
+      "output": "+\n-\n-\n+\n+\n-\n+\n+\n-\n-\n+\n"
+    }
+  ],
+  "1915/A - Odd One Out/solution.cpp": [
+    {
+      "input": "10\n1 2 2\n4 3 4\n5 5 6\n7 8 8\n9 0 9\n3 6 3\n2 8 2\n5 7 7\n7 7 5\n5 7 5\n",
+      "output": "1\n3\n6\n7\n0\n6\n8\n5\n5\n7\n"
+    }
+  ],
+  "200/B - Drinks/solution.cpp": [
+    {
+      "input": "3\n50 50 100\n",
+      "output": "66.666666666667\n"
+    },
+    {
+      "input": "4\n0 25 50 75\n",
+      "output": "37.500000000000\n"
+    }
+  ],
+  "2167/A - Square": [],
+  "228/A - Is your horseshoe on the other hoof": [],
+  "231/A - Team/solution.cpp": [
+    {
+      "input": "3\n1 1 0\n1 1 1\n1 0 0\n",
+      "output": "2\n"
+    },
+    {
+      "input": "2\n1 0 0\n0 1 1\n",
+      "output": "1\n"
+    }
+  ],
+  "236/A - Boy or Girl/solution.cpp": [
+    {
+      "input": "wjmzbmr\n",
+      "output": "CHAT WITH HER!\n"
+    },
+    {
+      "input": "xiaodao\n",
+      "output": "IGNORE HIM!\n"
+    },
+    {
+      "input": "sevenkplus\n",
+      "output": "CHAT WITH HER!\n"
+    }
+  ],
+  "263/A - Beautiful Matrix/solution.cpp": [
+    {
+      "input": "0 0 0 0 0\n0 0 0 0 1\n0 0 0 0 0\n0 0 0 0 0\n0 0 0 0 0\n",
+      "output": "3\n"
+    },
+    {
+      "input": "0 0 0 0 0\n0 0 0 0 0\n0 1 0 0 0\n0 0 0 0 0\n0 0 0 0 0\n",
+      "output": "1\n"
+    }
+  ],
+  "266/A - Stones on the Table/solution.cpp": [
+    {
+      "input": "3\nRRG\n",
+      "output": "1\n"
+    },
+    {
+      "input": "5\nRRRRR\n",
+      "output": "4\n"
+    },
+    {
+      "input": "4\nBRBG\n",
+      "output": "0\n"
+    }
+  ],
+  "266/B - Queue at the School/solution.cpp": [
+    {
+      "input": "5 1\nBGGBG\n",
+      "output": "GBGGB\n"
+    },
+    {
+      "input": "5 2\nBGGBG\n",
+      "output": "GGBGB\n"
+    },
+    {
+      "input": "4 1\nGGGB\n",
+      "output": "GGGB\n"
+    }
+  ],
+  "271/A - Beautiful Year/solution.cpp": [
+    {
+      "input": "1987\n",
+      "output": "2013\n"
+    },
+    {
+      "input": "2013\n",
+      "output": "2014\n"
+    }
+  ],
+  "281/A - Word Capitalization/solution.cpp": [
+    {
+      "input": "ApPLe\n",
+      "output": "ApPLe\n"
+    },
+    {
+      "input": "konjac\n",
+      "output": "Konjac\n"
+    }
+  ],
+  "339/A - Helpful Maths/solution.cpp": [
+    {
+      "input": "3+2+1\n",
+      "output": "1+2+3\n"
+    },
+    {
+      "input": "1+1+3+1+3\n",
+      "output": "1+1+1+3+3\n"
+    },
+    {
+      "input": "2\n",
+      "output": "2\n"
+    }
+  ],
+  "344/A - Magnets/solution.cpp": [
+    {
+      "input": "6\n10\n10\n10\n01\n10\n10\n",
+      "output": "3\n"
+    },
+    {
+      "input": "4\n01\n01\n10\n10\n",
+      "output": "2\n"
+    }
+  ],
+  "4/A - Watermelon/solution.cpp": [
+    {
+      "input": "8\n",
+      "output": "YES\n"
+    }
+  ],
+  "41/A - Translation/solution.cpp": [
+    {
+      "input": "code\nedoc\n",
+      "output": "YES\n"
+    },
+    {
+      "input": "abb\naba\n",
+      "output": "NO\n"
+    },
+    {
+      "input": "code\ncode\n",
+      "output": "NO\n"
+    }
+  ],
+  "443/A - Anton and Letters/solution.cpp": [
+    {
+      "input": "{a, b, c}\n",
+      "output": "3\n"
+    },
+    {
+      "input": "{b, a, b, a}\n",
+      "output": "2\n"
+    },
+    {
+      "input": "{}\n",
+      "output": "0\n"
+    }
+  ],
+  "467/A - George and Accommodation/solution.cpp": [
+    {
+      "input": "3\n1 1\n2 2\n3 3\n",
+      "output": "0\n"
+    },
+    {
+      "input": "3\n1 10\n0 10\n10 10\n",
+      "output": "2\n"
+    }
+  ],
+  "469/A - I Wanna Be the Guy/solution.cpp": [
+    {
+      "input": "4\n3 1 2 3\n2 2 4\n",
+      "output": "I become the guy.\n"
+    },
+    {
+      "input": "4\n3 1 2 3\n2 2 3\n",
+      "output": "Oh, my keyboard!\n"
+    }
+  ],
+  "486/A - Calculating Function/solution.cpp": [
+    {
+      "input": "4\n",
+      "output": "2\n"
+    },
+    {
+      "input": "5\n",
+      "output": "-3\n"
+    }
+  ],
+  "50/A - Domino piling/solution.cpp": [
+    {
+      "input": "2 4\n",
+      "output": "4\n"
+    },
+    {
+      "input": "3 3\n",
+      "output": "4\n"
+    }
+  ],
+  "520/A - Pangram/solution.cpp": [
+    {
+      "input": "12\ntoosmallword\n",
+      "output": "NO\n"
+    },
+    {
+      "input": "35\nTheQuickBrownFoxJumpsOverTheLazyDog\n",
+      "output": "YES\n"
+    }
+  ],
+  "546/A - Soldier and Bananas/solution.cpp": [
+    {
+      "input": "3 17 4\n",
+      "output": "13"
+    }
+  ],
+  "59/A - Word/solution.cpp": [
+    {
+      "input": "HoUse\n",
+      "output": "house\n"
+    },
+    {
+      "input": "ViP\n",
+      "output": "VIP\n"
+    },
+    {
+      "input": "maTRIx\n",
+      "output": "matrix\n"
+    }
+  ],
+  "61/A - Ultra-Fast Mathematician/solution.cpp": [
+    {
+      "input": "1010100\n0100101\n",
+      "output": "1110001\n"
+    },
+    {
+      "input": "000\n111\n",
+      "output": "111\n"
+    },
+    {
+      "input": "1110\n1010\n",
+      "output": "0100\n"
+    },
+    {
+      "input": "01110\n01100\n",
+      "output": "00010\n"
+    }
+  ],
+  "617/A - Elephant/solution.cpp": [
+    {
+      "input": "5\n",
+      "output": "1\n"
+    },
+    {
+      "input": "12\n",
+      "output": "3\n"
+    }
+  ],
+  "677/A - Vanya and Fence/solution.cpp": [
+    {
+      "input": "3 7\n4 5 14\n",
+      "output": "4\n"
+    },
+    {
+      "input": "6 1\n1 1 1 1 1 1\n",
+      "output": "6\n"
+    },
+    {
+      "input": "6 5\n7 6 8 9 10 5\n",
+      "output": "11\n"
+    }
+  ],
+  "678/A - Johny Likes Numbers/solution.cpp": [
+    {
+      "input": "5 3\n",
+      "output": "6\n"
+    },
+    {
+      "input": "25 13\n",
+      "output": "26\n"
+    },
+    {
+      "input": "26 13\n",
+      "output": "39\n"
+    }
+  ],
+  "705/A - Hulk/solution.cpp": [
+    {
+      "input": "1\n",
+      "output": "I hate it\n"
+    },
+    {
+      "input": "2\n",
+      "output": "I hate that I love it\n"
+    },
+    {
+      "input": "3\n",
+      "output": "I hate that I love that I hate it\n"
+    }
+  ],
+  "71/A - Way Too Long Words/solution.cpp": [
+    {
+      "input": "4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis\n",
+      "output": "word\nl10n\ni18n\np43s\n"
+    }
+  ],
+  "734/A - Anton and Danik/solution.cpp": [
+    {
+      "input": "6\nADAAAA\n",
+      "output": "Anton\n"
+    },
+    {
+      "input": "7\nDDDAADA\n",
+      "output": "Danik\n"
+    },
+    {
+      "input": "6\nDADADA\n",
+      "output": "Friendship\n"
+    }
+  ],
+  "791/A - Bear and Big Brother/solution.cpp": [
+    {
+      "input": "4 7\n",
+      "output": "2\n"
+    },
+    {
+      "input": "4 9\n",
+      "output": "3\n"
+    },
+    {
+      "input": "1 1\n",
+      "output": "1\n"
+    }
+  ],
+  "977/A - Wrong Subtraction/solution.cpp": [
+    {
+      "input": "512 4\n",
+      "output": "50\n"
+    },
+    {
+      "input": "1000000000 9\n",
+      "output": "1\n"
+    }
+  ]
+}
