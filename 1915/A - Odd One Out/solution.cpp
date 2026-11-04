@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+ 
 int main() {
     int t;
     cin >> t;
@@ -9,14 +9,11 @@ int main() {
         cin >> a >> b >> c;
         
         if (a == b) {
-            cout << c << "
-";
+            cout << c << "\n";
         } else if (a == c) {
-            cout << b << "
-";
+            cout << b << "\n";
         } else {
-            cout << a << "
-";
+            cout << a << "\n";
         }
     }
 }
