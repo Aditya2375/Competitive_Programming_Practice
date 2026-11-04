@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+ 
 int main() {
     int t;
     cin >> t;
@@ -15,8 +15,7 @@ int main() {
                 break;
             }
         }
-        cout << (ok ? "YES" : "NO") << "
-";
+        cout << (ok ? "YES" : "NO") << "\n";
     }
     return 0;
 }
