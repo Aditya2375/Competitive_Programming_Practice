@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+ 
 int main() {
     int n;
     cin >> n;
@@ -14,6 +14,5 @@ int main() {
         }
     }
     
-    cout << (hard ? "HARD" : "EASY") << "
-";
+    cout << (hard ? "HARD" : "EASY") << "\n";
 }
