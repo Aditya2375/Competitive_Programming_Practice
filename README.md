@@ -1,6 +1,6 @@
 # Competitive Programming Practice
 
-45 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
+49 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
 
 [Browse the live repository](https://github.com/Aditya2375/Competitive_Programming_Practice)
 
@@ -12,7 +12,7 @@ Requires Python 3 and GCC with C++20 support. No downloaded packages are needed.
 python3 tests/check.py
 ```
 
-The checker compiles all 45 sources, including four extensionless C++ files, and runs 91 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
+The checker compiles all 49 sources, including four extensionless C++ files, and runs 101 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
 
 ## Repair notes
 
@@ -42,10 +42,13 @@ The archived source export contained non-breaking spaces that GCC rejected, and 
 | [263A: Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Source](263/A%20-%20Beautiful%20Matrix/solution.cpp) | 2 |
 | [266A: Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Source](266/A%20-%20Stones%20on%20the%20Table/solution.cpp) | 3 |
 | [266B: Queue at the School](https://codeforces.com/contest/266/problem/B) | [Source](266/B%20-%20Queue%20at%20the%20School/solution.cpp) | 3 |
+| [268A: Games](https://codeforces.com/contest/268/problem/A) | [Source](268/A%20-%20Games/solution.cpp) | 3 |
 | [271A: Beautiful Year](https://codeforces.com/contest/271/problem/A) | [Source](271/A%20-%20Beautiful%20Year/solution.cpp) | 2 |
 | [281A: Word Capitalization](https://codeforces.com/contest/281/problem/A) | [Source](281/A%20-%20Word%20Capitalization/solution.cpp) | 2 |
+| [282A: Bit++](https://codeforces.com/contest/282/problem/A) | [Source](282/A%20-%20Bit++/solution.cpp) | 2 |
 | [339A: Helpful Maths](https://codeforces.com/contest/339/problem/A) | [Source](339/A%20-%20Helpful%20Maths/solution.cpp) | 3 |
 | [344A: Magnets](https://codeforces.com/contest/344/problem/A) | [Source](344/A%20-%20Magnets/solution.cpp) | 2 |
+| [381A: Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [Source](381/A%20-%20Sereja%20and%20Dima/solution.cpp) | 2 |
 | [443A: Anton and Letters](https://codeforces.com/contest/443/problem/A) | [Source](443/A%20-%20Anton%20and%20Letters/solution.cpp) | 3 |
 | [467A: George and Accommodation](https://codeforces.com/contest/467/problem/A) | [Source](467/A%20-%20George%20and%20Accommodation/solution.cpp) | 2 |
 | [469A: I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | [Source](469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) | 2 |
@@ -55,6 +58,7 @@ The archived source export contained non-breaking spaces that GCC rejected, and 
 | [617A: Elephant](https://codeforces.com/contest/617/problem/A) | [Source](617/A%20-%20Elephant/solution.cpp) | 2 |
 | [677A: Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Source](677/A%20-%20Vanya%20and%20Fence/solution.cpp) | 3 |
 | [678A: Johny Likes Numbers](https://codeforces.com/contest/678/problem/A) | [Source](678/A%20-%20Johny%20Likes%20Numbers/solution.cpp) | 3 |
+| [702A: Maximum Increase](https://codeforces.com/contest/702/problem/A) | [Source](702/A%20-%20Maximum%20Increase/solution.cpp) | 3 |
 | [705A: Hulk](https://codeforces.com/contest/705/problem/A) | [Source](705/A%20-%20Hulk/solution.cpp) | 3 |
 | [734A: Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Source](734/A%20-%20Anton%20and%20Danik/solution.cpp) | 3 |
 | [791A: Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Source](791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) | 3 |
