@@ -187,6 +187,20 @@
       "output": "GGGB\n"
     }
   ],
+  "268/A - Games/solution.cpp": [
+    {
+      "input": "3\n1 2\n2 4\n3 4\n",
+      "output": "1\n"
+    },
+    {
+      "input": "4\n100 42\n42 100\n5 42\n100 5\n",
+      "output": "5\n"
+    },
+    {
+      "input": "2\n1 2\n1 2\n",
+      "output": "0\n"
+    }
+  ],
   "271/A - Beautiful Year/solution.cpp": [
     {
       "input": "1987\n",
@@ -205,6 +219,16 @@
     {
       "input": "konjac\n",
       "output": "Konjac\n"
+    }
+  ],
+  "282/A - Bit++/solution.cpp": [
+    {
+      "input": "1\n++X\n",
+      "output": "1\n"
+    },
+    {
+      "input": "2\nX++\n--X\n",
+      "output": "0\n"
     }
   ],
   "339/A - Helpful Maths/solution.cpp": [
@@ -229,6 +253,16 @@
     {
       "input": "4\n01\n01\n10\n10\n",
       "output": "2\n"
+    }
+  ],
+  "381/A - Sereja and Dima/solution.cpp": [
+    {
+      "input": "4\n4 1 2 10\n",
+      "output": "12 5\n"
+    },
+    {
+      "input": "7\n1 2 3 4 5 6 7\n",
+      "output": "16 12\n"
     }
   ],
   "4/A - Watermelon/solution.cpp": [
@@ -389,6 +423,20 @@
     {
       "input": "26 13\n",
       "output": "39\n"
+    }
+  ],
+  "702/A - Maximum Increase/solution.cpp": [
+    {
+      "input": "5\n1 7 2 11 15\n",
+      "output": "3\n"
+    },
+    {
+      "input": "6\n100 100 100 100 100 100\n",
+      "output": "1\n"
+    },
+    {
+      "input": "3\n1 2 3\n",
+      "output": "3\n"
     }
   ],
   "705/A - Hulk/solution.cpp": [
