@@ -355,6 +355,20 @@
       "output": "13"
     }
   ],
+  "581/A - Vasya the Hipster/solution.cpp": [
+    {
+      "input": "3 1\n",
+      "output": "1 1\n"
+    },
+    {
+      "input": "2 3\n",
+      "output": "2 0\n"
+    },
+    {
+      "input": "7 3\n",
+      "output": "3 2\n"
+    }
+  ],
   "59/A - Word/solution.cpp": [
     {
       "input": "HoUse\n",
