@@ -1,6 +1,6 @@
 # Competitive Programming Practice
 
-49 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
+50 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
 
 [Browse the live repository](https://github.com/Aditya2375/Competitive_Programming_Practice)
 
@@ -12,7 +12,7 @@ Requires Python 3 and GCC with C++20 support. No downloaded packages are needed.
 python3 tests/check.py
 ```
 
-The checker compiles all 49 sources, including four extensionless C++ files, and runs 101 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
+The checker compiles all 50 sources, including four extensionless C++ files, and runs 104 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
 
 ## Repair notes
 
@@ -55,6 +55,7 @@ The archived source export contained non-breaking spaces that GCC rejected, and 
 | [486A: Calculating Function](https://codeforces.com/contest/486/problem/A) | [Source](486/A%20-%20Calculating%20Function/solution.cpp) | 2 |
 | [520A: Pangram](https://codeforces.com/contest/520/problem/A) | [Source](520/A%20-%20Pangram/solution.cpp) | 2 |
 | [546A: Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | [Source](546/A%20-%20Soldier%20and%20Bananas/solution.cpp) | 1 |
+| [581A: Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | [Source](581/A%20-%20Vasya%20the%20Hipster/solution.cpp) | 3 |
 | [617A: Elephant](https://codeforces.com/contest/617/problem/A) | [Source](617/A%20-%20Elephant/solution.cpp) | 2 |
 | [677A: Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Source](677/A%20-%20Vanya%20and%20Fence/solution.cpp) | 3 |
 | [678A: Johny Likes Numbers](https://codeforces.com/contest/678/problem/A) | [Source](678/A%20-%20Johny%20Likes%20Numbers/solution.cpp) | 3 |
