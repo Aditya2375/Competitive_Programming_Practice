@@ -510,5 +510,19 @@
       "input": "1000000000 9\n",
       "output": "1\n"
     }
+  ],
+  "996/A - Hit the Lottery/solution.cpp": [
+    {
+      "input": "125\n",
+      "output": "3\n"
+    },
+    {
+      "input": "43\n",
+      "output": "5\n"
+    },
+    {
+      "input": "1000000000\n",
+      "output": "10000000\n"
+    }
   ]
 }
