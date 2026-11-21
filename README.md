@@ -1,6 +1,6 @@
 # Competitive Programming Practice
 
-51 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
+52 C++ practice solutions, kept at their existing paths. This is a learning archive, not a claim of current Codeforces acceptance or a general-purpose input-processing library.
 
 [Browse the live repository](https://github.com/Aditya2375/Competitive_Programming_Practice)
 
@@ -12,7 +12,7 @@ Requires Python 3 and GCC with C++20 support. No downloaded packages are needed.
 python3 tests/check.py
 ```
 
-The checker compiles all 51 sources, including four extensionless C++ files, and runs 107 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
+The checker compiles all 52 sources, including four extensionless C++ files, and runs 109 input/output samples extracted from the problem statements already archived here. Four older extensionless files have no archived statement samples; those are compile-checked only. Token comparison ignores whitespace and allows a 1e-6 tolerance for numeric output. These checks are not exhaustive proofs, fresh judge submissions, or tests of malicious input outside contest constraints. Problem READMEs retain historical export metadata, including verdicts and ratings; those are not independently revalidated.
 
 ## Repair notes
 
@@ -62,6 +62,7 @@ The archived source export contained non-breaking spaces that GCC rejected, and 
 | [702A: Maximum Increase](https://codeforces.com/contest/702/problem/A) | [Source](702/A%20-%20Maximum%20Increase/solution.cpp) | 3 |
 | [705A: Hulk](https://codeforces.com/contest/705/problem/A) | [Source](705/A%20-%20Hulk/solution.cpp) | 3 |
 | [734A: Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Source](734/A%20-%20Anton%20and%20Danik/solution.cpp) | 3 |
+| [785A: Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | [Source](785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) | 2 |
 | [791A: Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Source](791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) | 3 |
 | [977A: Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [Source](977/A%20-%20Wrong%20Subtraction/solution.cpp) | 2 |
 | [996A: Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Source](996/A%20-%20Hit%20the%20Lottery/solution.cpp) | 3 |
