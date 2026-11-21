@@ -487,6 +487,16 @@
       "output": "Friendship\n"
     }
   ],
+  "785/A - Anton and Polyhedrons/solution.cpp": [
+    {
+      "input": "4\nIcosahedron\nCube\nTetrahedron\nDodecahedron\n",
+      "output": "42\n"
+    },
+    {
+      "input": "3\nDodecahedron\nOctahedron\nOctahedron\n",
+      "output": "28\n"
+    }
+  ],
   "791/A - Bear and Big Brother/solution.cpp": [
     {
       "input": "4 7\n",
